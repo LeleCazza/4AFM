@@ -1,8 +1,11 @@
 h1 {
-  color: red;
+  color: hotpink;
   text-align: center;
 }
-
-table, th, td{border-style: solid;
-  border-color : pink
+th {color : hotpink;}
+table, th, td{
+  text-align: center;
+  border-style: solid;
+  border-radius:12px;
+  border-color : hotpink
 }
