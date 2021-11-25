@@ -2,3 +2,18 @@ h1 {
   color: red;
   text-align: center;
 }
+
+div {
+  background-color: tomato;
+  color: black;
+  border: 2px solid black;
+  padding: 15px;
+  margin: 20px;
+}
+
+.carsa {
+  background-color: palegreen;
+  color: black;
+  border: 2px solid black;
+  padding: 15px;
+}
