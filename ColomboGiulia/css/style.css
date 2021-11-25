@@ -2,3 +2,9 @@ h1 {
   color: red;
   text-align: center;
 }
+
+table,td{
+  border: deeppink;
+  color: lightpink;
+}
+body {background-color: lightpink
