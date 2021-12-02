@@ -23,3 +23,25 @@ body { background-color: pink;}
   padding: 40px;
   text-align: center;
 }
+
+.header {
+  background-color:deeppink;
+  color: black;
+  padding: 20px;
+  text-align: center; 
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: plum;
+}
+
+.topnav a {
+  float: center;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
