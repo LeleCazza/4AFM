@@ -7,4 +7,21 @@ table,td{
   border: deeppink;
   color: lightpink;
 }
-body {background-color: lightpink
+body {background-color: lightpink}
+
+#falso {
+      background-color:black;
+      color: seagreen;
+      border:2px blue;
+      margin: 20px;
+      padding: 20px
+  
+}
+
+#falso {
+    background-color:black;
+    color: seagreen;
+    border:2px blue;
+    margin: 20px;
+    padding: 20px
+}
