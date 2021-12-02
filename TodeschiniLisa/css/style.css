@@ -7,5 +7,41 @@ table, th, td{
   text-align: center;
   border-style: solid;
   border-radius:12px;
-  border-color : hotpink
+  border-color : hotpink;
+  margin: auto;
 }
+body { background-color: pink;}
+.lisa { 
+  background: deeppink;
+  color: white;
+  border: 4px solid white ;
+  text-align: center;
+}
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+.header {
+  background-color:deeppink;
+  color: black;
+  padding: 20px;
+  text-align: center; 
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: plum;
+}
+
+.topnav a {
+  float: center;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
