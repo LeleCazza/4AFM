@@ -1,4 +1,25 @@
 h1 {
   color: red;
   text-align: center;
+  text-shadow: 2px 2px 5px darkred;
+}
+p  {
+  color: black;
+  text-align: center;
+  text-transform:  uppercase;
+}
+#borderimg {
+  border: 50px black;
+  padding: 40px;
+  border-image: url(border.png) 100 stretch;
+}
+body {
+  background-color: pink
+}
+p {
+  border-style: 
+  background-color: 
+}
+#citazione {
+  border-style: solid
 }
