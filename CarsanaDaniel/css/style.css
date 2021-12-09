@@ -1,21 +1,12 @@
 h1 {
-  color: blue;
+  color: red;
   text-align: center;
 }
-h2 { 
-  color: black;
-text-align: center;
-}
 .pera {
-  background-color: white;
-  color:blue;
-  border: 20px blue;
+  background-color: purple;
+  color:white;
+  border: 2px solid black;
   margin: 20px;
   padding: 20px;
 }
- .center {
- display: block;
-margin-left: auto;
- margin-right: auto;
- width: 45%;
-}
+

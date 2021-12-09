@@ -6,7 +6,6 @@ h1 {
 p  {
   color: black;
   text-align: center;
-  tex
   text-transform:  uppercase;
 }
 #borderimg {
@@ -16,10 +15,6 @@ p  {
 }
 body {
   background-color: pink
-}
-p {
-  border-style: 
-  background-color: 
 }
 #citazione {
   border-style: solid
