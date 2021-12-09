@@ -2,3 +2,24 @@ h1 {
   color: red;
   text-align: center;
 }
+.testo{
+  background-color: lightblue;
+  color: black;
+  border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+.immagini  {
+  background-color: lightgreen;
+  color: black;
+  border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+#pippo{
+  background-color: darkkhaki;
+  color: black;
+  border: 3px solid black;
+  margin: 20px;
+  padding: 20px;
+}
