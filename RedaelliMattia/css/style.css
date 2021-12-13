@@ -1,16 +1,2 @@
-h1
-#4afm { 
-  color: black;
-  background-color: green;
-  border: 4px solid aquamarine;
-  margin: 30px;
-  padding:50px;
-}
-
-.olginate {
-  background-color: orange;
-  color: white;
-  border: 2px;
-  margin: 20px;
-  padding:20px;
-}
+<html>
+head
