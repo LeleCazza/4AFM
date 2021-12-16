@@ -1,27 +1,4 @@
-.pippo {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
+h1 {
+  color: red;
+  text-align: center;
 }
-.ok {
-  background-color: blue;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-.ciao {
-  background-color: black;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
-
-
-
-
-  
-  
