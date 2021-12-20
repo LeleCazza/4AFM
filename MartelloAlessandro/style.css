@@ -2,13 +2,18 @@ h1 {
   color: red;
   text-align: center;
 }
+
+body{background-color: #cfffff;
+}
+
 .testo{
-  background-color: lightblue;
+  background-color: #d7deea;
   color: black;
-  border: 3px solid black;
+  border: 3px white;
   margin: 20px;
   padding: 20px;
 }
+
 .immagini  {
   background-color: lightgreen;
   color: black;
@@ -16,8 +21,9 @@ h1 {
   margin: 20px;
   padding: 20px;
 }
-#pippo{
-  background-color: darkkhaki;
+
+.campmond {
+  background-color: gold;
   color: black;
   border: 3px solid black;
   margin: 20px;

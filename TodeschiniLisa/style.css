@@ -1,0 +1,32 @@
+h1 {
+  color: hotpink;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  background-color: #FFDDDF;
+  margin: 0 0 0 0;
+}
+
+th {
+  border: 3px solid #FFDDDF;
+  border-collapse: collapse;
+}
+
+.w3-panel {
+  background: #FFD1E9;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+  font-family: papyrus;
+  font-size: 40px;
+}
+
+#quadrato {
+  border-collapse: collapse;
+  border: 3px solid #FFDDDF;
+  text-align: center;
+  padding: 8px;
+  background-color: white;
+  margin: 0 0 0 0;
+}

@@ -1,0 +1,18 @@
+h1 {
+  color: hotpink;
+  text-align: center;
+}
+
+th {color : hotpink;
+}
+
+table, th, td{
+  text-align: center;
+  border-style: solid;
+  border-radius:12px;
+  border-color : hotpink;
+  margin: auto;
+}
+
+body { background-color: pink;
+}
