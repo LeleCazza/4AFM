@@ -14,7 +14,7 @@ th {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
   font-family: Lucida Handwriting;
-  font-size: 70px;
+  font-size: 8vw;
 }
 
 #quadrato {
@@ -55,7 +55,7 @@ th {
 h1 {
   text-align: center;
   font-family:  Lucida Handwriting;
-  font-size:  30px;
+  font-size:  10vw;
 }
 #foto {
   border-collapse: collapse;
