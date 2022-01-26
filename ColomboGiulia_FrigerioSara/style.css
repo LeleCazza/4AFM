@@ -76,11 +76,9 @@ h6 {
    font-size: 25px;
    font-family: bold;
 }
-
 h7 {
-   color: black;
-   text-align:CENTER ;
+ color: black;
+   text-align:left;
    font-size: 25px;
    font-family: bold;
 }
-
