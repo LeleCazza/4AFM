@@ -1,20 +1,32 @@
 h1 {
-color: dimgrey;
+color:purple;
 text-align: center;
-font-family: cursive;
+font-family: lucida calligraphy;
 font-size:100px;
 margin-bottom: 1px
 }
 
 body{
-  background-color: lightgrey;
-  border-style: double
+  background-color:white;
+  background-image: url("IMG_0412.jpg");
   }
 
   p {
-  color: dimgrey;
+  color: black;
   text-align: center;
-  font-family: cursive;
+  font-family: adobe kaiti std R;
   font-size: 50px;
-  margin-top: 2px
+  margin-top: 2px;
+}
+
+.container {
+  text-align: center;
+  font-size: 50px;
+}
+
+.btn {
+  font-size: 50px;
+  margin:47px;
+  font-family: fantasy;
+  text-decoration-color:"grey";
 }
