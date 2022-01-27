@@ -1,14 +1,14 @@
 h1 {
-color:purple;
+color:teal;
 text-align: center;
-font-family: lucida calligraphy;
+font-family: cursive;
 font-size:100px;
 margin-bottom: 1px
 }
 
 body{
   background-color:white;
-  background-image: url("IMG_0412.jpg");
+  background-image: url("sfondo.jpg");
   }
 
   p {
@@ -30,3 +30,45 @@ body{
   font-family: fantasy;
   text-decoration-color:"grey";
 }
+
+h2 {
+  color: teal;
+  text-align: center;
+  font-family: cursive;
+  font-size: 55px;
+  margin-bottom: 1px;
+  }
+body {
+
+ p  
+    color: black;
+    text-align: center;
+    font-family: adobe kaiti std R;
+    font-size: 25px;
+    margin-top: 2px;
+}
+
+h3 {
+   color: black;
+   text-align:left;
+   font-size: 30px;
+   font-family: bold;
+}
+
+h4 {
+   color: teal;
+   text-align:center;
+   font-size: 55px;
+   font-family: cursive;
+   margin-bottom: 1px;
+}
+
+h5 {
+   color: black;
+   text-align:left;
+   font-size: 30px;
+   font-family: bold;
+}
+
+
+
