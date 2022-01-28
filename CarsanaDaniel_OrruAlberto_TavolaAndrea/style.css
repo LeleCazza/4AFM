@@ -7,9 +7,9 @@ h1 {
 
 th {color : hotpink;
 }
-h2 {font-family: "Comic Sans MS", serif;
+h2 {font-family: "cursive;", serif;
 }
-h3 {font-family: "Comic Sans MS", serif;
+h3 {font-family: "copperplate;", serif;
 }
 table, th, td{
   text-align: center;
@@ -21,7 +21,7 @@ table, th, td{
 }
 
 body { background-color: white;
-  background-image: url("bianco.jpg");}
+  background-image: url("https://www.publicdomainpictures.net/pictures/320000/nahled/gradient-pink-background.jpg");}
 
 /* The Overlay (background) */
 .overlay {

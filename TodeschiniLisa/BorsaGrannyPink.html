@@ -36,7 +36,69 @@
      <h1> WELCOME! </h1>
 <br>
 
+<div class="w3-card w3-left" style="width:50%">
+    <img src="immagini\IMG_2841 (1).jpeg"  style="width:100%">
+    <div class="w3-container">
+      <h5>Borsa Granny Square Pink</h5>
+    </div>
+</div>
+  <div class="w3-card-4 w3-right" style="width:50%;">
+    <div class="w3-container">
+      <h2> Borsa Granny Square Pink </h2>
+        <h4>  Esterno in cotone, interno in lana cotta e manici in bamboo </h4>
+        <h4> Realizzata interamente a mano </h4>
+        <h4> € 99,50</h4>
+          <p>
+                 
+        <div class="w3-bar w3-black">
+        <div class="w3-dropdown-click">
+            <button class="w3-button w3-block w3-black" onclick="dropFunction()"> Seleziona la taglia </button>
+              <div class="w3-dropdown-content w3-bar-block w3-card w3-light-grey" id="myDIV">
+               <input class="w3-input w3-padding" type="text" placeholder="Search.." id="myInput" onkeyup="filterFunction()">
+                  <a class="w3-bar-item w3-button" href="#about"> Unisex</a>
 
+      </div>
+    </div>
+  </div> 
+  <p><button class="w3-button w3-block w3-pink">Aggiungi al carrello </button>
+          </p>
+              </div>
+            </div>
+            <script>
+// Dropdown
+function dropFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else {
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+// Filter
+function filterFunction() {
+  var input, filter, ul, li, a, i;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  div = document.getElementById("myDIV");
+  a = div.getElementsByTagName("a");
+  for (i = 0; i < a.length; i++) {
+    txtValue = a[i].textContent || a[i].innerText;
+    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+      a[i].style.display = "";
+    } else {
+      a[i].style.display = "none";
+    }
+  }
+}
+</script>
+            </p>
+    </div>
+
+
+  </div>
+</div>  
+  
     
    
 
